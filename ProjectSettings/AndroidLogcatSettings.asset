@@ -1,0 +1,287 @@
+{
+    "m_SelectedDeviceId": "192.168.1.151:5555",
+    "m_SelectedPackage": {
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "192.168.1.151:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 26291,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.151:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 27841,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.151:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 28402,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.151:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 29078,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.151:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 30583,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "com.lge.launcher3",
+            "processId": 3201,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "ai.nreal.nebula",
+            "processId": 22890,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 27096,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 27462,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 28434,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 28701,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 28998,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 10652,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 11443,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 13047,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 13806,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 14319,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 16046,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 19891,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 20980,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 21905,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 22758,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 23350,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 20682,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 21393,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 22838,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.150:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 23397,
+            "exited": true
+        },
+        {
+            "deviceId": "LMV450PM9b1532cd",
+            "name": "au.net.eidetic.nreal",
+            "processId": 10931,
+            "exited": true
+        },
+        {
+            "deviceId": "LMV450PM9b1532cd",
+            "name": "com.lge.launcher3",
+            "processId": 3126,
+            "exited": false
+        },
+        {
+            "deviceId": "LMV450PM9b1532cd",
+            "name": "au.net.eidetic.nreal",
+            "processId": 11934,
+            "exited": true
+        },
+        {
+            "deviceId": "LMV450PM9b1532cd",
+            "name": "au.net.eidetic.nreal",
+            "processId": 12246,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.167:5555",
+            "name": "com.lge.launcher3",
+            "processId": 3126,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.167:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 14150,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.167:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 14510,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.167:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 15761,
+            "exited": true
+        },
+        {
+            "deviceId": "192.168.1.167:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 20661,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.167:5555",
+            "name": "au.net.eidetic.nreal",
+            "processId": 22186,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 255.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "URACK_DEBUG",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
