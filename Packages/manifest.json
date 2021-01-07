@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.eidetic.urack": "file:C:/URack-Unity",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.vscode": "1.2.2",
     "com.unity.mobile.android-logcat": "1.2.0",
